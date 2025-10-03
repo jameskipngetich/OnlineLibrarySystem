@@ -32,3 +32,8 @@ Test_file.cpp – Test file for running the application
 
 ⚙️ How to Compile and Run
 Compile:
+if in Unix based system:
+    $ gcc Test_file.cpp -o Test_file
+
+if in Windows:
+    $ g++ hello.cpp -o hello.exe
